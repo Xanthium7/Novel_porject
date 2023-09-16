@@ -32,7 +32,7 @@ export default function RootLayout({ children }) {
             </Link>
             <div className="flex gap-10">
               <Link
-                href={""}
+                href={"#Team"}
                 className=" hover:opacity-50 transition duration-150"
               >
                 <h1 className="flex gap-2 text-xl">

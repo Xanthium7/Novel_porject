@@ -5,7 +5,7 @@ import { AiFillGithub, AiOutlineTeam } from "react-icons/ai";
 
 const AboutTeam = () => {
   return (
-    <div>
+    <div id="Team">
       <section className="h-[100vh] mx-20">
         <div className="h-[20vh] flex items-center justify-center">
           <h1 className="text-center text-5xl">Our Team</h1>
