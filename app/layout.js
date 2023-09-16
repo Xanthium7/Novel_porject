@@ -18,7 +18,7 @@ export const metadata = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en">
+    <html lang="en" className="scroll-smooth">
       <body className={inter.className}>
         <nav
           className={`${share.className} sticky top-0 left-0 right-0 w-[100vw] bg-gradient-to-b from-[#000000c9] via-[#0000009f] to-[#00000000] h-32 text-white flex items-center`}
@@ -28,7 +28,7 @@ export default function RootLayout({ children }) {
               href={""}
               className=" hover:opacity-50 transition duration-150"
             >
-              <h1 className="text-2xl">Novel Ai</h1>
+              <h1 className="text-2xl">EssaI Ai</h1>
             </Link>
             <div className="flex gap-10">
               <Link

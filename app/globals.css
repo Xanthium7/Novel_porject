@@ -5,7 +5,7 @@
 body {
   color: white;
   background-color: #000;
-  background-image: url('https://images.pexels.com/photos/1655901/pexels-photo-1655901.jpeg?auto=compress&cs=tinysrgb&w=1600');
+  background-image: url('https://images.pexels.com/photos/6039245/pexels-photo-6039245.jpeg?auto=compress&cs=tinysrgb&w=1600');
   /* background-repeat: no-repeat; */
   background-repeat: repeat-x;
   background-origin: content-box;
@@ -16,6 +16,7 @@ body {
   overflow-x: hidden;
   position: relative;
   scroll-behavior: smooth;
+  
   
 }
 

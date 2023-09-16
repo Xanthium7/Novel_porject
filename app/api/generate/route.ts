@@ -33,7 +33,7 @@ export async function POST(req: Request): Promise<Response>{
 
     // console.log(chatCompletion)
 
-    return new Response(" Ai Sysytem is functional but not assiccible due to lack of API key, plese view the git hub repo code for further information")
+    return new Response(" Ai system is functional but not accessible due to lack of API key, please view the git hub repo code for further information")
     
 }
 

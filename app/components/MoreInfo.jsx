@@ -36,7 +36,7 @@ const MoreInfo = () => {
           <div className="flex mt-10 gap-5">
             <Link
               className="text-white text-xl rounded-sm border-2 px-10 py-5 hover:bg-[#c8c8c8e3] hover:text-black transition ease-out duration-150"
-              href={""}
+              href={"#features"}
             >
               Our Features
             </Link>
