@@ -1,34 +1,43 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Essai AI:
 
-## Getting Started
+Essai Ai is an AI textpad editor with autocompletion build up on Novel Ai.
 
-First, run the development server:
+## About Novel Ai
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+NovelAI is a monthly subscription service for AI-assisted authorship, storytelling, virtual companionship, or simply a LLM powered sandbox for your imagination.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Our Artificial Intelligence algorithms create human-like writing based on your own, enabling anyone, regardless of ability, to produce quality literature. We offer unprecedented levels of freedom with our Natural Language Processing playground by using our own AI models, trained on real literature. The AI seamlessly adapts to your input, maintaining your perspective and style.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## Deployed Site: https://novel-project-nine.vercel.app
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Screenshots:
 
-## Learn More
+![App Screenshot](/novel_app/public/imgs/img4.png)
 
-To learn more about Next.js, take a look at the following resources:
+![App Screenshot](/novel_app/public/imgs/img5.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Preview 👀:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+[![Watch the video](/novel_app/public/imgs/img6.png)](/novel_app/public/vids/start.mp4)
 
-## Deploy on Vercel
+## 🔗 Links to out Git:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Akshhay: https://github.com/Xanthium7 👈
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Hrithik : https://github.com/hrithikvinayakr 👈
+
+Niya : https://github.com/niyaboby 👈
+
+## Features
+
+- **AI INTERGRATED ESSAY WRITING** 🤖
+  This Project Build on novel Ai is capable of generating live AI
+  responses for the given queries, however this feature is **currently inaccessible due to lack of API key**, visit GIT repo for further info
+
+- **COMPLETELY CUSTOMISABLE EDITOR** 📝
+  Fully Customisable text editor with ALL the edits and
+  customisations available
+
+- **DATA SAVING PROGRESS STORAGE** 🔋
+  Established Storage system for individual records recorded in the
+  editor, Local storage intergration
