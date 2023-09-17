@@ -33,7 +33,9 @@ export async function POST(req: Request): Promise<Response>{
 
     console.log(chatCompletion.choices[0].message.content)
 
-    return new Response(chatCompletion.choices[0].message.content )
+    return(
+        new Response(": "+chatCompletion.choices[0].message.content )
+        ) 
     
 }
 
