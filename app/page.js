@@ -17,7 +17,7 @@ const defaultEditorContent = {
     {
       type: "heading",
       attrs: { level: 2 },
-      content: [{ type: "text", text: "Introducing Novel" }],
+      content: [{ type: "text", text: "Ask me something.." }],
     },
   ],
 };
