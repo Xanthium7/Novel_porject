@@ -5,7 +5,7 @@ import { OpenAIStream, StreamingTextResponse } from "ai";
 const OPENAI_API_KEY="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"
 
 const openai = new OpenAI({
-    apiKey: OPENAI_API_KEY,
+    apiKey: "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",
 });
 
 
