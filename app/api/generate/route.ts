@@ -2,10 +2,10 @@ import OpenAI from "openai";
 import { OpenAIStream, StreamingTextResponse } from "ai";
 
 
-const OPENAI_API_KEY="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"
+
 
 const openai = new OpenAI({
-    apiKey: OPENAI_API_KEY,
+    apiKey: process.env.OPENAI_API_KEY,
 });
 
 
