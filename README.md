@@ -18,15 +18,7 @@ Our Artificial Intelligence algorithms create human-like writing based on your o
 
 ## Preview 👀:
 
-[![Watch the video](https://images.pexels.com/photos/18401203/pexels-photo-18401203.png?auto=compress&cs=tinysrgb&w=1600&lazy=load)](/novel_app/public/vids/start.mp4)
-
-## 🔗 Links to out Git:
-
-Akshhay: https://github.com/Xanthium7 👈
-
-Hrithik : https://github.com/hrithikvinayakr 👈
-
-Niya : https://github.com/niyaboby 👈
+[![Watch the video](https://images.pexels.com/photos/18401246/pexels-photo-18401246.png?auto=compress&cs=tinysrgb&w=1600&lazy=load)](/novel_app/public/vids/start.mp4)
 
 ## Features
 
@@ -41,3 +33,11 @@ Niya : https://github.com/niyaboby 👈
 - **DATA SAVING PROGRESS STORAGE** 🔋
   Established Storage system for individual records recorded in the
   editor, Local storage intergration
+
+## 🔗 Links to out Git:
+
+Akshhay: https://github.com/Xanthium7 👈
+
+Hrithik : https://github.com/hrithikvinayakr 👈
+
+Niya : https://github.com/niyaboby 👈
