@@ -18,8 +18,8 @@ const FeaturesPage = () => {
 
             <p className="text-center mt-16">
               This Project Build on novel Ai is capable of generating live AI
-              responses for the given queries, however this feature is currently
-              inasscible due to lack of API key, visit GIT repo for further info
+              responses for the given queries, and can generate based on
+              conversation string while storing the conversation pattern
             </p>
           </div>
           <div className="h-[40vh] w-[35vh]  rounded-md border-2 border-[#b9b9b9c4]">

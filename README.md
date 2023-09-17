@@ -1,6 +1,6 @@
 # Essai AI:
 
-Essai Ai is an AI textpad editor with autocompletion build up on Novel Ai.
+Essai Ai is an **AI textpad editor with autocompletion build up on Novel Ai.**
 
 ## About Novel Ai
 
@@ -32,7 +32,7 @@ Niya : https://github.com/niyaboby 👈
 
 - **AI INTERGRATED ESSAY WRITING** 🤖
   This Project Build on novel Ai is capable of generating live AI
-  responses for the given queries, however this feature is **currently inaccessible due to lack of API key**, visit GIT repo for further info
+  responses for the given queries,This Project Build on novel Ai is capable of generating live AI responses for the given queries, and can generate based on conversation string while storing the conversation pattern with unpredictable levels of freedom of creativity
 
 - **COMPLETELY CUSTOMISABLE EDITOR** 📝
   Fully Customisable text editor with ALL the edits and
