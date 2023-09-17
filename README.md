@@ -12,13 +12,13 @@ Our Artificial Intelligence algorithms create human-like writing based on your o
 
 ## Screenshots:
 
-![App Screenshot](/novel_app/public/imgs/img4.png)
+![App Screenshot](https://images.pexels.com/photos/18401168/pexels-photo-18401168.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-![App Screenshot](/novel_app/public/imgs/img5.png)
+![App Screenshot](https://images.pexels.com/photos/18401178/pexels-photo-18401178.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ## Preview 👀:
 
-[![Watch the video](/novel_app/public/imgs/img6.png)](/novel_app/public/vids/start.mp4)
+[![Watch the video](https://images.pexels.com/photos/18401203/pexels-photo-18401203.png?auto=compress&cs=tinysrgb&w=1600&lazy=load)](/novel_app/public/vids/start.mp4)
 
 ## 🔗 Links to out Git:
 
