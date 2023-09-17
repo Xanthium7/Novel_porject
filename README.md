@@ -16,13 +16,13 @@ Our Artificial Intelligence algorithms create human-like writing based on your o
 
 [![Watch the video](https://images.pexels.com/photos/18401246/pexels-photo-18401246.png?auto=compress&cs=tinysrgb&w=1600&lazy=load)](https://www.youtube.com/watch?v=UKoRVX_Bt0Y)
 
-## Features
+## Screen Shots
 
 ![App Screenshot](https://images.pexels.com/photos/18401168/pexels-photo-18401168.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
 ![App Screenshot](https://images.pexels.com/photos/18401178/pexels-photo-18401178.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)
 
-## Features
+## Features 🔧
 
 - **AI INTERGRATED ESSAY WRITING** 🤖
   This Project Build on novel Ai is capable of generating live AI
