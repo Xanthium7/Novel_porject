@@ -5,7 +5,7 @@ import { OpenAIStream, StreamingTextResponse } from "ai";
 
 
 const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY,
+    apiKey: "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",
 });
 
 
